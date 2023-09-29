@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue:wght@700&display=swap');
+body{
+    color: white;
+    font-family: 'Comic Neue', cursive;
+    display: flex;
+    justify-content: center;
+}
+.bloco_simulado{
+
+    display: flex;
+    height: 65.6vh;
+    width: 100vw;
+
+}
+
+#container_simulado {
+    background-color: #c358ed;
+    width: 25vw;
+    margin: 10px;
+    color: white;
+
+
+}
+h1 {
+    /* padding: 10px; */
+}
+.container_secundario {
+width: 75%;
+text-align: right;
+}
+.bloco_primario{
+    display: flex;
+
+}
+.container_01 {
+    background-color: #70d988;
+    margin: 10px 0px;
+    width: 18vw;
+    height: 20vh;
+}
+.container_02 {
+    background-color: #2eb2ff;
+    margin: 10px ;
+    width: 23vw;
+    height: 20vh;
+}
+.bloco_secundario{
+    display: flex;
+    flex-direction: row;
+
+}
+.container_03 {
+    background-color: #44d9e6;
+    width: 23vw;
+    height: 25vh;
+
+    
+
+}
+.container_04 {
+    background-color: #ff5c5c;
+    width: 18vw;
+    height: 25vh;
+    margin-left: 10px;
+
+}
+.container_05 {
+    background-color: #ffbd4a;
+    width: 42vw;
+    height: 15vh;
+    
+}
